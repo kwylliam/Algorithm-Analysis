@@ -1,0 +1,1408 @@
+i=0	j=0	k=0
+Checking if 0.0+0.0<0.0
+No change was made to D
+
+i=0	j=1	k=0
+Checking if 0.0+4.0<4.0
+No change was made to D
+
+i=0	j=2	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=0	j=3	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=0	j=4	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=0	j=5	k=0
+Checking if 0.0+10.0<10.0
+No change was made to D
+
+i=0	j=6	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=1	j=0	k=0
+Checking if 3.0+0.0<3.0
+No change was made to D
+
+i=1	j=1	k=0
+Checking if 3.0+4.0<0.0
+No change was made to D
+
+i=1	j=2	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=1	j=3	k=0
+Checking if Infinity+Infinity<18.0
+No change was made to D
+
+i=1	j=4	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=1	j=5	k=0
+Checking if 3.0+10.0<Infinity
+p[1][5] was set to 0
+d[1][5] was set to 13
+
+i=1	j=6	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=2	j=0	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=2	j=1	k=0
+Checking if Infinity+Infinity<6.0
+No change was made to D
+
+i=2	j=2	k=0
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=2	j=3	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=2	j=4	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=2	j=5	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=2	j=6	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=3	j=0	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=3	j=1	k=0
+Checking if Infinity+Infinity<5.0
+No change was made to D
+
+i=3	j=2	k=0
+Checking if Infinity+Infinity<15.0
+No change was made to D
+
+i=3	j=3	k=0
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=3	j=4	k=0
+Checking if Infinity+Infinity<2.0
+No change was made to D
+
+i=3	j=5	k=0
+Checking if Infinity+Infinity<19.0
+No change was made to D
+
+i=3	j=6	k=0
+Checking if Infinity+Infinity<5.0
+No change was made to D
+
+i=4	j=0	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=4	j=1	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=4	j=2	k=0
+Checking if Infinity+Infinity<12.0
+No change was made to D
+
+i=4	j=3	k=0
+Checking if Infinity+Infinity<1.0
+No change was made to D
+
+i=4	j=4	k=0
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=4	j=5	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=4	j=6	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=0	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=1	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=2	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=3	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=4	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=5	k=0
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=5	j=6	k=0
+Checking if Infinity+Infinity<10.0
+No change was made to D
+
+i=6	j=0	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=1	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=2	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=3	k=0
+Checking if Infinity+Infinity<8.0
+No change was made to D
+
+i=6	j=4	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=5	k=0
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=6	k=0
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=0	j=0	k=1
+Checking if 4.0+3.0<0.0
+No change was made to D
+
+i=0	j=1	k=1
+Checking if 4.0+0.0<4.0
+No change was made to D
+
+i=0	j=2	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=0	j=3	k=1
+Checking if 4.0+18.0<Infinity
+p[0][3] was set to 1
+d[0][3] was set to 22
+
+i=0	j=4	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=0	j=5	k=1
+Checking if 4.0+13.0<10.0
+No change was made to D
+
+i=0	j=6	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=1	j=0	k=1
+Checking if 0.0+3.0<3.0
+No change was made to D
+
+i=1	j=1	k=1
+Checking if 0.0+0.0<0.0
+No change was made to D
+
+i=1	j=2	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=1	j=3	k=1
+Checking if 0.0+18.0<18.0
+No change was made to D
+
+i=1	j=4	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=1	j=5	k=1
+Checking if 0.0+13.0<13.0
+No change was made to D
+
+i=1	j=6	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=2	j=0	k=1
+Checking if 6.0+3.0<Infinity
+p[2][0] was set to 1
+d[2][0] was set to 9
+
+i=2	j=1	k=1
+Checking if 6.0+0.0<6.0
+No change was made to D
+
+i=2	j=2	k=1
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=2	j=3	k=1
+Checking if 6.0+18.0<Infinity
+p[2][3] was set to 1
+d[2][3] was set to 24
+
+i=2	j=4	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=2	j=5	k=1
+Checking if 6.0+13.0<Infinity
+p[2][5] was set to 1
+d[2][5] was set to 19
+
+i=2	j=6	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=3	j=0	k=1
+Checking if 5.0+3.0<Infinity
+p[3][0] was set to 1
+d[3][0] was set to 8
+
+i=3	j=1	k=1
+Checking if 5.0+0.0<5.0
+No change was made to D
+
+i=3	j=2	k=1
+Checking if Infinity+Infinity<15.0
+No change was made to D
+
+i=3	j=3	k=1
+Checking if 5.0+18.0<0.0
+No change was made to D
+
+i=3	j=4	k=1
+Checking if Infinity+Infinity<2.0
+No change was made to D
+
+i=3	j=5	k=1
+Checking if 5.0+13.0<19.0
+p[3][5] was set to 1
+d[3][5] was set to 18
+
+i=3	j=6	k=1
+Checking if Infinity+Infinity<5.0
+No change was made to D
+
+i=4	j=0	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=4	j=1	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=4	j=2	k=1
+Checking if Infinity+Infinity<12.0
+No change was made to D
+
+i=4	j=3	k=1
+Checking if Infinity+Infinity<1.0
+No change was made to D
+
+i=4	j=4	k=1
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=4	j=5	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=4	j=6	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=0	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=1	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=2	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=3	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=4	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=5	k=1
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=5	j=6	k=1
+Checking if Infinity+Infinity<10.0
+No change was made to D
+
+i=6	j=0	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=1	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=2	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=3	k=1
+Checking if Infinity+Infinity<8.0
+No change was made to D
+
+i=6	j=4	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=5	k=1
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=6	k=1
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=0	j=0	k=2
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=0	j=1	k=2
+Checking if Infinity+Infinity<4.0
+No change was made to D
+
+i=0	j=2	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=0	j=3	k=2
+Checking if Infinity+Infinity<22.0
+No change was made to D
+
+i=0	j=4	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=0	j=5	k=2
+Checking if Infinity+Infinity<10.0
+No change was made to D
+
+i=0	j=6	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=1	j=0	k=2
+Checking if Infinity+Infinity<3.0
+No change was made to D
+
+i=1	j=1	k=2
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=1	j=2	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=1	j=3	k=2
+Checking if Infinity+Infinity<18.0
+No change was made to D
+
+i=1	j=4	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=1	j=5	k=2
+Checking if Infinity+Infinity<13.0
+No change was made to D
+
+i=1	j=6	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=2	j=0	k=2
+Checking if 0.0+9.0<9.0
+No change was made to D
+
+i=2	j=1	k=2
+Checking if 0.0+6.0<6.0
+No change was made to D
+
+i=2	j=2	k=2
+Checking if 0.0+0.0<0.0
+No change was made to D
+
+i=2	j=3	k=2
+Checking if 0.0+24.0<24.0
+No change was made to D
+
+i=2	j=4	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=2	j=5	k=2
+Checking if 0.0+19.0<19.0
+No change was made to D
+
+i=2	j=6	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=3	j=0	k=2
+Checking if 15.0+9.0<8.0
+No change was made to D
+
+i=3	j=1	k=2
+Checking if 15.0+6.0<5.0
+No change was made to D
+
+i=3	j=2	k=2
+Checking if 15.0+0.0<15.0
+No change was made to D
+
+i=3	j=3	k=2
+Checking if 15.0+24.0<0.0
+No change was made to D
+
+i=3	j=4	k=2
+Checking if Infinity+Infinity<2.0
+No change was made to D
+
+i=3	j=5	k=2
+Checking if 15.0+19.0<18.0
+No change was made to D
+
+i=3	j=6	k=2
+Checking if Infinity+Infinity<5.0
+No change was made to D
+
+i=4	j=0	k=2
+Checking if 12.0+9.0<Infinity
+p[4][0] was set to 2
+d[4][0] was set to 21
+
+i=4	j=1	k=2
+Checking if 12.0+6.0<Infinity
+p[4][1] was set to 2
+d[4][1] was set to 18
+
+i=4	j=2	k=2
+Checking if 12.0+0.0<12.0
+No change was made to D
+
+i=4	j=3	k=2
+Checking if 12.0+24.0<1.0
+No change was made to D
+
+i=4	j=4	k=2
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=4	j=5	k=2
+Checking if 12.0+19.0<Infinity
+p[4][5] was set to 2
+d[4][5] was set to 31
+
+i=4	j=6	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=0	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=1	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=2	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=3	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=4	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=5	k=2
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=5	j=6	k=2
+Checking if Infinity+Infinity<10.0
+No change was made to D
+
+i=6	j=0	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=1	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=2	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=3	k=2
+Checking if Infinity+Infinity<8.0
+No change was made to D
+
+i=6	j=4	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=5	k=2
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=6	j=6	k=2
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=0	j=0	k=3
+Checking if 22.0+8.0<0.0
+No change was made to D
+
+i=0	j=1	k=3
+Checking if 22.0+5.0<4.0
+No change was made to D
+
+i=0	j=2	k=3
+Checking if 22.0+15.0<Infinity
+p[0][2] was set to 3
+d[0][2] was set to 37
+
+i=0	j=3	k=3
+Checking if 22.0+0.0<22.0
+No change was made to D
+
+i=0	j=4	k=3
+Checking if 22.0+2.0<Infinity
+p[0][4] was set to 3
+d[0][4] was set to 24
+
+i=0	j=5	k=3
+Checking if 22.0+18.0<10.0
+No change was made to D
+
+i=0	j=6	k=3
+Checking if 22.0+5.0<Infinity
+p[0][6] was set to 3
+d[0][6] was set to 27
+
+i=1	j=0	k=3
+Checking if 18.0+8.0<3.0
+No change was made to D
+
+i=1	j=1	k=3
+Checking if 18.0+5.0<0.0
+No change was made to D
+
+i=1	j=2	k=3
+Checking if 18.0+15.0<Infinity
+p[1][2] was set to 3
+d[1][2] was set to 33
+
+i=1	j=3	k=3
+Checking if 18.0+0.0<18.0
+No change was made to D
+
+i=1	j=4	k=3
+Checking if 18.0+2.0<Infinity
+p[1][4] was set to 3
+d[1][4] was set to 20
+
+i=1	j=5	k=3
+Checking if 18.0+18.0<13.0
+No change was made to D
+
+i=1	j=6	k=3
+Checking if 18.0+5.0<Infinity
+p[1][6] was set to 3
+d[1][6] was set to 23
+
+i=2	j=0	k=3
+Checking if 24.0+8.0<9.0
+No change was made to D
+
+i=2	j=1	k=3
+Checking if 24.0+5.0<6.0
+No change was made to D
+
+i=2	j=2	k=3
+Checking if 24.0+15.0<0.0
+No change was made to D
+
+i=2	j=3	k=3
+Checking if 24.0+0.0<24.0
+No change was made to D
+
+i=2	j=4	k=3
+Checking if 24.0+2.0<Infinity
+p[2][4] was set to 3
+d[2][4] was set to 26
+
+i=2	j=5	k=3
+Checking if 24.0+18.0<19.0
+No change was made to D
+
+i=2	j=6	k=3
+Checking if 24.0+5.0<Infinity
+p[2][6] was set to 3
+d[2][6] was set to 29
+
+i=3	j=0	k=3
+Checking if 0.0+8.0<8.0
+No change was made to D
+
+i=3	j=1	k=3
+Checking if 0.0+5.0<5.0
+No change was made to D
+
+i=3	j=2	k=3
+Checking if 0.0+15.0<15.0
+No change was made to D
+
+i=3	j=3	k=3
+Checking if 0.0+0.0<0.0
+No change was made to D
+
+i=3	j=4	k=3
+Checking if 0.0+2.0<2.0
+No change was made to D
+
+i=3	j=5	k=3
+Checking if 0.0+18.0<18.0
+No change was made to D
+
+i=3	j=6	k=3
+Checking if 0.0+5.0<5.0
+No change was made to D
+
+i=4	j=0	k=3
+Checking if 1.0+8.0<21.0
+p[4][0] was set to 3
+d[4][0] was set to 9
+
+i=4	j=1	k=3
+Checking if 1.0+5.0<18.0
+p[4][1] was set to 3
+d[4][1] was set to 6
+
+i=4	j=2	k=3
+Checking if 1.0+15.0<12.0
+No change was made to D
+
+i=4	j=3	k=3
+Checking if 1.0+0.0<1.0
+No change was made to D
+
+i=4	j=4	k=3
+Checking if 1.0+2.0<0.0
+No change was made to D
+
+i=4	j=5	k=3
+Checking if 1.0+18.0<31.0
+p[4][5] was set to 3
+d[4][5] was set to 19
+
+i=4	j=6	k=3
+Checking if 1.0+5.0<Infinity
+p[4][6] was set to 3
+d[4][6] was set to 6
+
+i=5	j=0	k=3
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=1	k=3
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=2	k=3
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=3	k=3
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=4	k=3
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=5	k=3
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=5	j=6	k=3
+Checking if Infinity+Infinity<10.0
+No change was made to D
+
+i=6	j=0	k=3
+Checking if 8.0+8.0<Infinity
+p[6][0] was set to 3
+d[6][0] was set to 16
+
+i=6	j=1	k=3
+Checking if 8.0+5.0<Infinity
+p[6][1] was set to 3
+d[6][1] was set to 13
+
+i=6	j=2	k=3
+Checking if 8.0+15.0<Infinity
+p[6][2] was set to 3
+d[6][2] was set to 23
+
+i=6	j=3	k=3
+Checking if 8.0+0.0<8.0
+No change was made to D
+
+i=6	j=4	k=3
+Checking if 8.0+2.0<Infinity
+p[6][4] was set to 3
+d[6][4] was set to 10
+
+i=6	j=5	k=3
+Checking if 8.0+18.0<Infinity
+p[6][5] was set to 3
+d[6][5] was set to 26
+
+i=6	j=6	k=3
+Checking if 8.0+5.0<0.0
+No change was made to D
+
+i=0	j=0	k=4
+Checking if 24.0+9.0<0.0
+No change was made to D
+
+i=0	j=1	k=4
+Checking if 24.0+6.0<4.0
+No change was made to D
+
+i=0	j=2	k=4
+Checking if 24.0+12.0<37.0
+p[0][2] was set to 4
+d[0][2] was set to 36
+
+i=0	j=3	k=4
+Checking if 24.0+1.0<22.0
+No change was made to D
+
+i=0	j=4	k=4
+Checking if 24.0+0.0<24.0
+No change was made to D
+
+i=0	j=5	k=4
+Checking if 24.0+19.0<10.0
+No change was made to D
+
+i=0	j=6	k=4
+Checking if 24.0+6.0<27.0
+No change was made to D
+
+i=1	j=0	k=4
+Checking if 20.0+9.0<3.0
+No change was made to D
+
+i=1	j=1	k=4
+Checking if 20.0+6.0<0.0
+No change was made to D
+
+i=1	j=2	k=4
+Checking if 20.0+12.0<33.0
+p[1][2] was set to 4
+d[1][2] was set to 32
+
+i=1	j=3	k=4
+Checking if 20.0+1.0<18.0
+No change was made to D
+
+i=1	j=4	k=4
+Checking if 20.0+0.0<20.0
+No change was made to D
+
+i=1	j=5	k=4
+Checking if 20.0+19.0<13.0
+No change was made to D
+
+i=1	j=6	k=4
+Checking if 20.0+6.0<23.0
+No change was made to D
+
+i=2	j=0	k=4
+Checking if 26.0+9.0<9.0
+No change was made to D
+
+i=2	j=1	k=4
+Checking if 26.0+6.0<6.0
+No change was made to D
+
+i=2	j=2	k=4
+Checking if 26.0+12.0<0.0
+No change was made to D
+
+i=2	j=3	k=4
+Checking if 26.0+1.0<24.0
+No change was made to D
+
+i=2	j=4	k=4
+Checking if 26.0+0.0<26.0
+No change was made to D
+
+i=2	j=5	k=4
+Checking if 26.0+19.0<19.0
+No change was made to D
+
+i=2	j=6	k=4
+Checking if 26.0+6.0<29.0
+No change was made to D
+
+i=3	j=0	k=4
+Checking if 2.0+9.0<8.0
+No change was made to D
+
+i=3	j=1	k=4
+Checking if 2.0+6.0<5.0
+No change was made to D
+
+i=3	j=2	k=4
+Checking if 2.0+12.0<15.0
+p[3][2] was set to 4
+d[3][2] was set to 14
+
+i=3	j=3	k=4
+Checking if 2.0+1.0<0.0
+No change was made to D
+
+i=3	j=4	k=4
+Checking if 2.0+0.0<2.0
+No change was made to D
+
+i=3	j=5	k=4
+Checking if 2.0+19.0<18.0
+No change was made to D
+
+i=3	j=6	k=4
+Checking if 2.0+6.0<5.0
+No change was made to D
+
+i=4	j=0	k=4
+Checking if 0.0+9.0<9.0
+No change was made to D
+
+i=4	j=1	k=4
+Checking if 0.0+6.0<6.0
+No change was made to D
+
+i=4	j=2	k=4
+Checking if 0.0+12.0<12.0
+No change was made to D
+
+i=4	j=3	k=4
+Checking if 0.0+1.0<1.0
+No change was made to D
+
+i=4	j=4	k=4
+Checking if 0.0+0.0<0.0
+No change was made to D
+
+i=4	j=5	k=4
+Checking if 0.0+19.0<19.0
+No change was made to D
+
+i=4	j=6	k=4
+Checking if 0.0+6.0<6.0
+No change was made to D
+
+i=5	j=0	k=4
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=1	k=4
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=2	k=4
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=3	k=4
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=4	k=4
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=5	k=4
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=5	j=6	k=4
+Checking if Infinity+Infinity<10.0
+No change was made to D
+
+i=6	j=0	k=4
+Checking if 10.0+9.0<16.0
+No change was made to D
+
+i=6	j=1	k=4
+Checking if 10.0+6.0<13.0
+No change was made to D
+
+i=6	j=2	k=4
+Checking if 10.0+12.0<23.0
+p[6][2] was set to 4
+d[6][2] was set to 22
+
+i=6	j=3	k=4
+Checking if 10.0+1.0<8.0
+No change was made to D
+
+i=6	j=4	k=4
+Checking if 10.0+0.0<10.0
+No change was made to D
+
+i=6	j=5	k=4
+Checking if 10.0+19.0<26.0
+No change was made to D
+
+i=6	j=6	k=4
+Checking if 10.0+6.0<0.0
+No change was made to D
+
+i=0	j=0	k=5
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=0	j=1	k=5
+Checking if Infinity+Infinity<4.0
+No change was made to D
+
+i=0	j=2	k=5
+Checking if Infinity+Infinity<36.0
+No change was made to D
+
+i=0	j=3	k=5
+Checking if Infinity+Infinity<22.0
+No change was made to D
+
+i=0	j=4	k=5
+Checking if Infinity+Infinity<24.0
+No change was made to D
+
+i=0	j=5	k=5
+Checking if 10.0+0.0<10.0
+No change was made to D
+
+i=0	j=6	k=5
+Checking if 10.0+10.0<27.0
+p[0][6] was set to 5
+d[0][6] was set to 20
+
+i=1	j=0	k=5
+Checking if Infinity+Infinity<3.0
+No change was made to D
+
+i=1	j=1	k=5
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=1	j=2	k=5
+Checking if Infinity+Infinity<32.0
+No change was made to D
+
+i=1	j=3	k=5
+Checking if Infinity+Infinity<18.0
+No change was made to D
+
+i=1	j=4	k=5
+Checking if Infinity+Infinity<20.0
+No change was made to D
+
+i=1	j=5	k=5
+Checking if 13.0+0.0<13.0
+No change was made to D
+
+i=1	j=6	k=5
+Checking if 13.0+10.0<23.0
+No change was made to D
+
+i=2	j=0	k=5
+Checking if Infinity+Infinity<9.0
+No change was made to D
+
+i=2	j=1	k=5
+Checking if Infinity+Infinity<6.0
+No change was made to D
+
+i=2	j=2	k=5
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=2	j=3	k=5
+Checking if Infinity+Infinity<24.0
+No change was made to D
+
+i=2	j=4	k=5
+Checking if Infinity+Infinity<26.0
+No change was made to D
+
+i=2	j=5	k=5
+Checking if 19.0+0.0<19.0
+No change was made to D
+
+i=2	j=6	k=5
+Checking if 19.0+10.0<29.0
+No change was made to D
+
+i=3	j=0	k=5
+Checking if Infinity+Infinity<8.0
+No change was made to D
+
+i=3	j=1	k=5
+Checking if Infinity+Infinity<5.0
+No change was made to D
+
+i=3	j=2	k=5
+Checking if Infinity+Infinity<14.0
+No change was made to D
+
+i=3	j=3	k=5
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=3	j=4	k=5
+Checking if Infinity+Infinity<2.0
+No change was made to D
+
+i=3	j=5	k=5
+Checking if 18.0+0.0<18.0
+No change was made to D
+
+i=3	j=6	k=5
+Checking if 18.0+10.0<5.0
+No change was made to D
+
+i=4	j=0	k=5
+Checking if Infinity+Infinity<9.0
+No change was made to D
+
+i=4	j=1	k=5
+Checking if Infinity+Infinity<6.0
+No change was made to D
+
+i=4	j=2	k=5
+Checking if Infinity+Infinity<12.0
+No change was made to D
+
+i=4	j=3	k=5
+Checking if Infinity+Infinity<1.0
+No change was made to D
+
+i=4	j=4	k=5
+Checking if Infinity+Infinity<0.0
+No change was made to D
+
+i=4	j=5	k=5
+Checking if 19.0+0.0<19.0
+No change was made to D
+
+i=4	j=6	k=5
+Checking if 19.0+10.0<6.0
+No change was made to D
+
+i=5	j=0	k=5
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=1	k=5
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=2	k=5
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=3	k=5
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=4	k=5
+Checking if Infinity+Infinity<Infinity
+No change was made to D
+
+i=5	j=5	k=5
+Checking if 0.0+0.0<0.0
+No change was made to D
+
+i=5	j=6	k=5
+Checking if 0.0+10.0<10.0
+No change was made to D
+
+i=6	j=0	k=5
+Checking if Infinity+Infinity<16.0
+No change was made to D
+
+i=6	j=1	k=5
+Checking if Infinity+Infinity<13.0
+No change was made to D
+
+i=6	j=2	k=5
+Checking if Infinity+Infinity<22.0
+No change was made to D
+
+i=6	j=3	k=5
+Checking if Infinity+Infinity<8.0
+No change was made to D
+
+i=6	j=4	k=5
+Checking if Infinity+Infinity<10.0
+No change was made to D
+
+i=6	j=5	k=5
+Checking if 26.0+0.0<26.0
+No change was made to D
+
+i=6	j=6	k=5
+Checking if 26.0+10.0<0.0
+No change was made to D
+
+i=0	j=0	k=6
+Checking if 20.0+16.0<0.0
+No change was made to D
+
+i=0	j=1	k=6
+Checking if 20.0+13.0<4.0
+No change was made to D
+
+i=0	j=2	k=6
+Checking if 20.0+22.0<36.0
+No change was made to D
+
+i=0	j=3	k=6
+Checking if 20.0+8.0<22.0
+No change was made to D
+
+i=0	j=4	k=6
+Checking if 20.0+10.0<24.0
+No change was made to D
+
+i=0	j=5	k=6
+Checking if 20.0+26.0<10.0
+No change was made to D
+
+i=0	j=6	k=6
+Checking if 20.0+0.0<20.0
+No change was made to D
+
+i=1	j=0	k=6
+Checking if 23.0+16.0<3.0
+No change was made to D
+
+i=1	j=1	k=6
+Checking if 23.0+13.0<0.0
+No change was made to D
+
+i=1	j=2	k=6
+Checking if 23.0+22.0<32.0
+No change was made to D
+
+i=1	j=3	k=6
+Checking if 23.0+8.0<18.0
+No change was made to D
+
+i=1	j=4	k=6
+Checking if 23.0+10.0<20.0
+No change was made to D
+
+i=1	j=5	k=6
+Checking if 23.0+26.0<13.0
+No change was made to D
+
+i=1	j=6	k=6
+Checking if 23.0+0.0<23.0
+No change was made to D
+
+i=2	j=0	k=6
+Checking if 29.0+16.0<9.0
+No change was made to D
+
+i=2	j=1	k=6
+Checking if 29.0+13.0<6.0
+No change was made to D
+
+i=2	j=2	k=6
+Checking if 29.0+22.0<0.0
+No change was made to D
+
+i=2	j=3	k=6
+Checking if 29.0+8.0<24.0
+No change was made to D
+
+i=2	j=4	k=6
+Checking if 29.0+10.0<26.0
+No change was made to D
+
+i=2	j=5	k=6
+Checking if 29.0+26.0<19.0
+No change was made to D
+
+i=2	j=6	k=6
+Checking if 29.0+0.0<29.0
+No change was made to D
+
+i=3	j=0	k=6
+Checking if 5.0+16.0<8.0
+No change was made to D
+
+i=3	j=1	k=6
+Checking if 5.0+13.0<5.0
+No change was made to D
+
+i=3	j=2	k=6
+Checking if 5.0+22.0<14.0
+No change was made to D
+
+i=3	j=3	k=6
+Checking if 5.0+8.0<0.0
+No change was made to D
+
+i=3	j=4	k=6
+Checking if 5.0+10.0<2.0
+No change was made to D
+
+i=3	j=5	k=6
+Checking if 5.0+26.0<18.0
+No change was made to D
+
+i=3	j=6	k=6
+Checking if 5.0+0.0<5.0
+No change was made to D
+
+i=4	j=0	k=6
+Checking if 6.0+16.0<9.0
+No change was made to D
+
+i=4	j=1	k=6
+Checking if 6.0+13.0<6.0
+No change was made to D
+
+i=4	j=2	k=6
+Checking if 6.0+22.0<12.0
+No change was made to D
+
+i=4	j=3	k=6
+Checking if 6.0+8.0<1.0
+No change was made to D
+
+i=4	j=4	k=6
+Checking if 6.0+10.0<0.0
+No change was made to D
+
+i=4	j=5	k=6
+Checking if 6.0+26.0<19.0
+No change was made to D
+
+i=4	j=6	k=6
+Checking if 6.0+0.0<6.0
+No change was made to D
+
+i=5	j=0	k=6
+Checking if 10.0+16.0<Infinity
+p[5][0] was set to 6
+d[5][0] was set to 26
+
+i=5	j=1	k=6
+Checking if 10.0+13.0<Infinity
+p[5][1] was set to 6
+d[5][1] was set to 23
+
+i=5	j=2	k=6
+Checking if 10.0+22.0<Infinity
+p[5][2] was set to 6
+d[5][2] was set to 32
+
+i=5	j=3	k=6
+Checking if 10.0+8.0<Infinity
+p[5][3] was set to 6
+d[5][3] was set to 18
+
+i=5	j=4	k=6
+Checking if 10.0+10.0<Infinity
+p[5][4] was set to 6
+d[5][4] was set to 20
+
+i=5	j=5	k=6
+Checking if 10.0+26.0<0.0
+No change was made to D
+
+i=5	j=6	k=6
+Checking if 10.0+0.0<10.0
+No change was made to D
+
+i=6	j=0	k=6
+Checking if 0.0+16.0<16.0
+No change was made to D
+
+i=6	j=1	k=6
+Checking if 0.0+13.0<13.0
+No change was made to D
+
+i=6	j=2	k=6
+Checking if 0.0+22.0<22.0
+No change was made to D
+
+i=6	j=3	k=6
+Checking if 0.0+8.0<8.0
+No change was made to D
+
+i=6	j=4	k=6
+Checking if 0.0+10.0<10.0
+No change was made to D
+
+i=6	j=5	k=6
+Checking if 0.0+26.0<26.0
+No change was made to D
+
+i=6	j=6	k=6
+Checking if 0.0+0.0<0.0
+No change was made to D
